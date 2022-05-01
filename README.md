@@ -10,3 +10,6 @@ Identifying Tumors in MRI scan = https://colab.research.google.com/drive/1pWdhfP
 
 Final Project Presentation 
 https://docs.google.com/presentation/d/1lahfq4E8dfvlvQ7p4IV_5WGLtwD8FQCZXn72VJTGBow/edit?usp=sharing
+
+Final Proect Report
+https://docs.google.com/document/d/1-6f5REJMI8cFMTFbZgxS7SmZzaRJZUwUYNQkqMkbbg8/edit?usp=sharing
